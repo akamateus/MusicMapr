@@ -1,4 +1,4 @@
---Introducing MusicMapr
+-- Introducing MusicMapr
 
 Hey there, music lovers! 🎵🎉 Get ready to unlock a world of musical wonders with MusicMapr! 🌍🎶
 
